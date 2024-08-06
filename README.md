@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Online HTML Editor</title>
 </head>
 <body align="center">
 <h1 align="center">Hi 👋, I'm Salhi Adem</h1>
